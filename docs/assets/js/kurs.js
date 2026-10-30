@@ -74,6 +74,10 @@ window.LP_KURS = {
   {
    "file": "spickzettel.html",
    "title": "Spickzettel: Fachbegriffe"
+  },
+  {
+   "file": "videos.html",
+   "title": "Videos & Hilfeseiten"
   }
  ],
  "varianten": null,

@@ -1,0 +1,49 @@
+# Videos und Hilfeseiten – nur öffentlich-rechtliche bzw. offizielle Quellen, nur verlinkt
+zdf-darwin:
+  type: video
+  lang: de
+  source: ZDF Terra X (ZDF goes Schule)
+  title: Was besagt Darwins Evolutionstheorie?
+  url: https://schule.zdf.de/video/was-besagt-darwins-evolutionstheorie-creative-commons-clip-100
+  duration: "1:00"
+  hint: "Kurzer Überblick: Darwins Idee der gemeinsamen Abstammung und warum er so lange zögerte. Lizenz CC BY 4.0 – ZDF/Terra X/R. Schlosshan/F. Haedecke/C. Ruby/F. Wienke/Gruppe5/Jochen Schmidt"
+  linkGeprueft: 2026-10-30
+  freigegeben: ""
+pw-darwin:
+  type: hilfe
+  lang: de
+  source: Planet Wissen (WDR)
+  title: "Charles Darwin – revolutionär und Gentleman"
+  url: https://www.planet-wissen.de/natur/forschung/evolutionsforschung/pwiecharlesdarwinrevolutionaerundgentleman100.html
+  hint: Darwins Leben, die Reise mit der Beagle und der Brief von Wallace – mit zwei kurzen Videos.
+  linkGeprueft: 2026-10-30
+  freigegeben: ""
+zdf-stammbaum:
+  type: video
+  lang: de
+  source: ZDF Terra X (ZDF goes Schule)
+  title: "Stammbaum: Die Entwicklung des Menschen"
+  url: https://schule.zdf.de/video/stammbaum-100
+  duration: "2:00"
+  hint: "Zur Vertiefung: der Stammbaum des Menschen. Video von 2017, verfügbar bis 14.08.2027."
+  linkGeprueft: 2026-10-30
+  freigegeben: ""
+zdf-hand:
+  type: video
+  lang: de
+  source: ZDF Terra X (ZDF goes Schule)
+  title: Evolution der Hand
+  url: https://schule.zdf.de/video/evolution-der-hand-creative-commons-clip-100
+  duration: "1:00"
+  hint: "Homologie in einer Minute: Vom Fisch mit fingerartigen Flossenknochen zu Hand, Flügel und Flosse. Lizenz CC BY 4.0 – ZDF/Terra X"
+  linkGeprueft: 2026-10-30
+  freigegeben: ""
+quarks-resistenz:
+  type: hilfe
+  lang: de
+  source: Quarks (WDR)
+  title: "Antibiotika-Resistenzen: Was du darüber wissen solltest"
+  url: https://www.quarks.de/gesundheit/medizin/antibiotika-resistenzen-bakterien-krankheiten/
+  hint: Der Abschnitt „Resistenzbildung ist gelebte Evolution“ passt genau zu diesem Modul.
+  linkGeprueft: 2026-10-30
+  freigegeben: ""

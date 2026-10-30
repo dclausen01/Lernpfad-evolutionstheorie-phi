@@ -167,3 +167,21 @@
   status: verifiziert
   geprueft_am: 2026-10-30
   belegt: "Erstausgabe 24.11.1859, 1.250 Exemplare; einzige Abbildung ist ein Abzweigungsdiagramm (gegenüber S. 117)"
+
+- id: q-commons-darwin-tree
+  titel: "Darwin tree.png – Charles Darwin, Notizbuch B (1837), Wikimedia Commons"
+  url: https://commons.wikimedia.org/wiki/File:Darwin_tree.png
+  art: fachliteratur
+  lizenz: gemeinfrei (Public Domain Mark 1.0)
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Abbildung material/darwin-i-think-1837.png (Ausschnitt); Darwins erste Stammbaum-Skizze 1837"
+
+- id: q-commons-homologie
+  titel: "Homology vertebrates-de.svg – Vladlen666 / Angelito7, Wikimedia Commons"
+  url: https://commons.wikimedia.org/wiki/File:Homology_vertebrates-de.svg
+  art: fachliteratur
+  lizenz: CC0 1.0
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Abbildung material/homologie-vordergliedmassen.png (als PNG gerendert); homologe Knochen der Vordergliedmaßen von Mensch, Hund, Vogel, Wal"
