@@ -1,0 +1,169 @@
+# Quellen mit Prüfstatus – siehe referenzen/qualitaet.md im Lernpfad-Baukasten
+
+- id: q-spektrum-lamarckismus
+  titel: "Lamarckismus – Kompaktlexikon der Biologie (Spektrum der Wissenschaft)"
+  url: https://www.spektrum.de/lexikon/biologie-kompakt/lamarckismus/6809
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Gebrauch/Nichtgebrauch, Vererbung erworbener Eigenschaften; Beispiele Giraffenhals und Maulwurfsaugen"
+
+- id: q-spektrum-lamarck
+  titel: "Lamarck, Jean-Baptiste de Monet – Lexikon der Biologie (Spektrum der Wissenschaft)"
+  url: https://www.spektrum.de/lexikon/biologie/lamarck-jean-baptiste-antoine-pierre-de-monet/38010
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Lamarck als wichtigster Vorläufer Darwins; Vererbung erworbener Eigenschaften war damals verbreitete Annahme"
+
+- id: q-spektrum-abstammung
+  titel: "Abstammung – Lexikon der Biologie (Spektrum der Wissenschaft)"
+  url: https://www.spektrum.de/lexikon/biologie/abstammung/272
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Lamarckismus heute abgelehnt: erworbene Veränderungen verändern das Erbgut nicht"
+
+- id: q-darwinproject-fake
+  titel: "Fake Darwin: myths and misconceptions – Darwin Correspondence Project (University of Cambridge)"
+  url: https://www.darwinproject.ac.uk/fake-darwin
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Darwin nicht der erste Evolutionstheoretiker; Entwurf der Theorie 1842; Wallace-Essay 1858 gemeinsam vor der Linnean Society; 'survival of the fittest' von Spencer 1864"
+
+- id: q-darwinproject-fittest
+  titel: "Survival of the fittest – Darwin Correspondence Project (University of Cambridge)"
+  url: https://www.darwinproject.ac.uk/commentary/survival-fittest
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Spencer prägte den Ausdruck 1864 (Principles of Biology); Wallace regte 1866 die Übernahme an; Darwin nutzte ihn ab der 5. Auflage der Origin (1869)"
+
+- id: q-darwin-online
+  titel: "Darwin Online – The Complete Work of Charles Darwin Online (Hrsg. John van Wyhe)"
+  url: https://darwin-online.org.uk/
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Originaltexte Darwins frei zugänglich (Origin, Reisebericht der Beagle 1831–1836)"
+
+- id: q-britannica-fittest
+  titel: "Survival of the fittest – Encyclopaedia Britannica"
+  url: https://www.britannica.com/science/survival-of-the-fittest
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Ausdruck von Spencer, von Darwin übernommen; Fitness als Fortpflanzungserfolg"
+
+- id: q-berkeley-misconceptions
+  titel: "Misconceptions about evolution – Understanding Evolution (University of California, Berkeley)"
+  url: https://evolution.berkeley.edu/misconceptions-about-natural-selection-and-adaptation/the-straight-story
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Selektion strebt nicht nach Perfektion ('gut genug'); Organismen 'versuchen' nicht, sich anzupassen; Selektion nicht der einzige Mechanismus (Mutation, Gendrift, Migration)"
+
+- id: q-berkeley-homologie
+  titel: "Homologies: Anatomical evidence – Understanding Evolution (UC Berkeley)"
+  url: https://evolution.berkeley.edu/lines-of-evidence/homologies/homologies-anatomical-evidence/
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Vordergliedmaßen von Wal, Frosch, Vogel und Säugetier mit denselben Knochen"
+
+- id: q-berkeley-tiktaalik
+  titel: "What has the head of a crocodile and the gills of a fish? – Understanding Evolution (UC Berkeley)"
+  url: https://evolution.berkeley.edu/evo-news/what-has-the-head-of-a-crocodile-and-the-gills-of-a-fish/
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Tiktaalik als Übergangsform (ca. 375 Mio. Jahre): Kiemen, Schuppen, Flossen und zugleich Merkmale von Landwirbeltieren"
+
+- id: q-berkeley-evo101
+  titel: "Evolution 101 – Understanding Evolution (UC Berkeley), PDF"
+  url: https://evolution.berkeley.edu/wp-content/uploads/2022/02/Evo101_UE_all.pdf
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Mutationen sind zufällig in Bezug auf ihren Nutzen; Synthese von Evolution und Genetik in den 1930er/40er Jahren"
+
+- id: q-britannica-homologie
+  titel: "Homology – Encyclopaedia Britannica"
+  url: https://www.britannica.com/science/homology-evolution
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Definition Homologie (gemeinsame Abstammung) vs. Analogie (ähnliche Funktion)"
+
+- id: q-smithsonian-genetik
+  titel: "Genetic Evidence – Smithsonian National Museum of Natural History, Human Origins Program"
+  url: https://humanorigins.si.edu/evidence/genetics
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Mensch und Schimpanse: ca. 1,2 % Unterschied (Basenaustausch), weitere 4–5 % durch Einfügungen/Verluste; gemeinsamer Vorfahr vor 8 bis 6 Mio. Jahren; Bonobo gleich weit entfernt"
+
+- id: q-nhm-birkenspanner
+  titel: "Rainbow nature: life in bold black and white – Natural History Museum London"
+  url: https://www.nhm.ac.uk/discover/rainbow-nature-life-in-black-and-white.html
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Birkenspanner (Biston betularia): dunkle Form 1895 in Manchester 98 %; Tarnung auf rußigen Baumstämmen; Beispiel natürlicher Selektion"
+
+- id: q-nhm-birkenspanner-schule
+  titel: "Species variation game: peppered moth – Natural History Museum London (Unterrichtsmaterial)"
+  url: https://www.nhm.ac.uk/schools/teaching-resources/key-stage-2/evolution-and-inheritance/species-variation-game-peppered-moth-lucky-landing.html
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Nach dem Clean Air Act (1956) wuchsen Flechten nach, helle Falter wurden wieder häufiger"
+
+- id: q-exeter-birkenspanner
+  titel: "Study confirms truth behind ‘Darwin’s moth’ – University of Exeter (2018)"
+  url: https://news-archive.exeter.ac.uk/2018/august/title_675775_en.html
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Überleben heller und dunkler Falter durch Tarnung vor Vögeln erklärt (Experiment 2018)"
+
+- id: q-rki-resistenz
+  titel: "Grundwissen Antibiotikaresistenz – Robert Koch-Institut"
+  url: https://www.rki.de/DE/Themen/Infektionskrankheiten/Antibiotikaresistenz/Grundwissen/grundwissen-antibiotikaresistenz-node.html
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Resistenz durch Mutation oder Aufnahme von Resistenzgenen; Antibiotika-Einsatz als Selektionsdruck: empfindliche Bakterien sterben, resistente überleben und vermehren sich"
+
+- id: q-rki-faq
+  titel: "FAQ zu Antibiotikaresistenz – Robert Koch-Institut"
+  url: https://www.rki.de/DE/Themen/Infektionskrankheiten/Antibiotikaresistenz/FAQ/faq-node.html
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Falsche oder unnötige Einnahme fördert Resistenzen"
+
+- id: q-britannica-philzoo
+  titel: "Philosophie zoologique – Encyclopaedia Britannica"
+  url: https://www.britannica.com/topic/Philosophie-zoologique
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Lamarcks Hauptwerk erschien 1809 und skizziert seine Evolutionstheorie"
+
+- id: q-scilogs-cuvier
+  titel: "Cuvier testet Lamarcks Evolutionstheorie – SciLogs (Spektrum der Wissenschaft)"
+  url: https://scilogs.spektrum.de/die-sankore-schriften/cuvier-testet-lamarcks-evolutionstheorie/
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Cuvier vertrat die Unveränderlichkeit (Konstanz) der Arten gegen Lamarck"
+
+- id: q-darwin-online-origin
+  titel: "Freeman: Editorial introduction to On the Origin of Species – Darwin Online"
+  url: https://darwin-online.org.uk/EditorialIntroductions/Freeman_OntheOriginofSpecies.html
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-10-30
+  belegt: "Erstausgabe 24.11.1859, 1.250 Exemplare; einzige Abbildung ist ein Abzweigungsdiagramm (gegenüber S. 117)"

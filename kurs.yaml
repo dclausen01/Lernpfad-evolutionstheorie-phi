@@ -1,0 +1,40 @@
+# Kursbeschreibung – Evolutionstheorie (Philosophie, Jg. 11)
+# Aufbau und alle Felder: referenzen/schema.md im Lernpfad-Baukasten
+# Nur die biologischen Grundzüge – die philosophische Anknüpfung macht die Lehrkraft im Unterricht.
+
+titel: Evolutionstheorie
+kurzname: evolutionstheorie
+ueberschrift: Die Evolutionstheorie – die Grundzüge
+untertitel: Du lernst, wie Darwin die Vielfalt des Lebens erklärt – und woher wir wissen, dass er recht hatte.
+badges: [Philosophie · Jg. 11, 2 Stufen · ca. 2 Unterrichtsstunden]
+fusszeile: BBZ Rendsburg-Eckernförde · Philosophie · Stand 10/2026
+logo_zeichen: "🧬"
+
+einleitung: |
+  :::notiz 👉 Bevor du startest
+  1. Arbeite die Module **der Reihe nach** durch – sie bauen aufeinander auf.
+  2. Löse die Aufgaben zuerst selbst und klapp **erst dann** die Lösung auf.
+  3. Am Ende jedes Moduls prüfst du dich mit dem **Kurz-Check**. Du bekommst sofort eine Rückmeldung.
+  4. Notiere offene Fragen im Notizfeld – wir greifen sie im Unterricht auf.
+  :::
+
+  :::tipp Fachbegriffe vergessen?
+  Im **Spickzettel** (unter „Extras“) stehen alle wichtigen Begriffe auf einer Seite.
+  :::
+
+stufen:
+  - id: darwins-theorie
+    name: Darwins Theorie
+    icon: "🌱"
+    text: Von Lamarck zu Darwin – wie natürliche Selektion funktioniert.
+    module: [g1, g2, g3]
+  - id: abstammung-und-belege
+    name: Abstammung und Belege
+    icon: "🚀"
+    text: Gemeinsame Vorfahren, Belege für die Evolution und Darwin heute.
+    module: [v1, v2, v3]
+
+moodle:
+  version: 5
+  freischaltung: offen
+  reihenfolge: nacheinander

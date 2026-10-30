@@ -1,0 +1,63 @@
+{
+ "titel": "Evolutionstheorie",
+ "kurzname": "evolutionstheorie",
+ "seiten": [
+  {
+   "datei": "g1-vor-darwin-lamarcks-idee.html",
+   "art": "modul",
+   "id": "g1",
+   "titel": "Vor Darwin – Lamarcks Idee",
+   "review": "freigegeben"
+  },
+  {
+   "datei": "g2-darwin-variation-selektion-vererbung.html",
+   "art": "modul",
+   "id": "g2",
+   "titel": "Darwin – Variation, Selektion, Vererbung",
+   "review": "freigegeben"
+  },
+  {
+   "datei": "g3-was-heisst-fitness.html",
+   "art": "modul",
+   "id": "g3",
+   "titel": "Was heißt „Fitness“?",
+   "review": "freigegeben"
+  },
+  {
+   "datei": "v1-gemeinsame-abstammung.html",
+   "art": "modul",
+   "id": "v1",
+   "titel": "Gemeinsame Abstammung",
+   "review": "freigegeben"
+  },
+  {
+   "datei": "v2-belege-fur-die-evolution.html",
+   "art": "modul",
+   "id": "v2",
+   "titel": "Belege für die Evolution",
+   "review": "freigegeben"
+  },
+  {
+   "datei": "v3-darwin-heute-und-dein-abschluss-check.html",
+   "art": "modul",
+   "id": "v3",
+   "titel": "Darwin heute – und dein Abschluss-Check",
+   "review": "freigegeben"
+  },
+  {
+   "datei": "spickzettel.html",
+   "art": "seite",
+   "titel": "Spickzettel: Fachbegriffe"
+  },
+  {
+   "datei": "index.html",
+   "art": "index",
+   "titel": "Übersicht"
+  },
+  {
+   "datei": "start.html",
+   "art": "start",
+   "titel": "🧭 Mein Lernpfad – hier geht's los"
+  }
+ ]
+}

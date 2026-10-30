@@ -1,0 +1,9 @@
+/* Erzeugt von bauen.py: Farben der Stufen und Varianten dieses Kurses. */
+:root {
+  --lv-darwins-theorie: var(--lv-1); --lv-darwins-theorie-soft: var(--lv-1-soft);
+  --lv-abstammung-und-belege: var(--lv-2); --lv-abstammung-und-belege-soft: var(--lv-2-soft);
+}
+.badge.lv-darwins-theorie { background: var(--lv-darwins-theorie-soft); color: var(--deep); box-shadow: inset 3px 0 0 var(--lv-darwins-theorie); }
+.level-card.darwins-theorie { border-top-color: var(--lv-darwins-theorie); }
+.badge.lv-abstammung-und-belege { background: var(--lv-abstammung-und-belege-soft); color: var(--deep); box-shadow: inset 3px 0 0 var(--lv-abstammung-und-belege); }
+.level-card.abstammung-und-belege { border-top-color: var(--lv-abstammung-und-belege); }
