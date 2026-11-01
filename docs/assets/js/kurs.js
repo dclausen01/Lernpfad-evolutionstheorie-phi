@@ -33,7 +33,7 @@ window.LP_KURS = {
    "level": "darwins-theorie",
    "file": "g2-darwin-variation-selektion-vererbung.html",
    "title": "Darwin – Variation, Selektion, Vererbung",
-   "min": 20,
+   "min": 25,
    "milestone": false
   },
   {

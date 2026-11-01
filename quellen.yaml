@@ -185,3 +185,20 @@
   status: verifiziert
   geprueft_am: 2026-10-30
   belegt: "Abbildung material/homologie-vordergliedmassen.png (als PNG gerendert); homologe Knochen der Vordergliedmaßen von Mensch, Hund, Vogel, Wal"
+
+- id: q-nature-birkenspanner
+  titel: "‘Jumping gene’ took peppered moths to the dark side – University of Liverpool (2016), zu van't Hof et al., Nature 534, 102–105"
+  url: https://news.liverpool.ac.uk/2016/06/01/jumping-gene-took-peppered-moths-dark-side/
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-01
+  belegt: "Dunkle Form (carbonaria) geht auf eine Mutation zurück, entstanden um 1819; erster dokumentierter dunkler Falter 1848 in Manchester"
+
+- id: q-commons-birkenspanner
+  titel: "Biston.betularia.7200.jpg und Biston.betularia.f.carbonaria.7209.jpg – Olaf Leillinger (Olei), bearb. Chiswick Chap, Wikimedia Commons"
+  url: https://commons.wikimedia.org/wiki/File:Biston.betularia.f.carbonaria.7209.jpg
+  art: fachliteratur
+  lizenz: CC BY-SA 3.0 (wahlweise CC BY-SA 2.5 / GFDL)
+  status: verifiziert
+  geprueft_am: 2026-11-01
+  belegt: "Fotos material/birkenspanner-hell-dunkel.jpg (zusammengesetzt, verkleinert); helle und dunkle Form"
